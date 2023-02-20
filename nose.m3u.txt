@@ -1,0 +1,31 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ FHD" tvg-logo="http://212.102.60.73/logos/TV-Globo-Nordeste.png" group-title="Brazil",PRUEVA
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ HD" tvg-logo="http://212.102.60.73/logos/TV-Globo-Nordeste.png" group-title="Brazil",GLOBO RJ HD
+http://212.102.60.73:25461/heldin2@icloud.com/b84ac5c23c51cf7f12c36fe051207846c0326880a6f3276ae278652f5cfe05cb0bd2d83c5d95b309588453f692ba38a4401706b8aba6cca2c079a31bbfd17224/2851
+#EXTINF:-1 tvg-id="Globo São Paulo HD" tvg-name="GLOBO SP FHD" tvg-logo="http://212.102.60.73/logos/TV-Globo-Nordeste.png" group-title="Brazil",GLOBO SP FHD
+http://212.102.60.73:25461/heldin2@icloud.com/b84ac5c23c51cf7f12c36fe051207846c0326880a6f3276ae278652f5cfe05cb0bd2d83c5d95b309588453f692ba38a4401706b8aba6cca2c079a31bbfd17224/2854
+#EXTINF:-1 tvg-id="Globo São Paulo HD" tvg-name="GLOBO SP HD" tvg-logo="http://212.102.60.73/logos/TV-Globo-Nordeste.png" group-title="Brazil",GLOBO SP HD
+http://212.102.60.73:25461/heldin2@icloud.com/b84ac5c23c51cf7f12c36fe051207846c0326880a6f3276ae278652f5cfe05cb0bd2d83c5d95b309588453f692ba38a4401706b8aba6cca2c079a31bbfd17224/2853
+#EXTINF:-1 tvg-id="Globo São Paulo HD" tvg-name="GLOBO MINAS FHD" tvg-logo="http://212.102.60.73/logos/TV-Globo-Nordeste.png" group-title="Brazil",GLOBO MINAS FHD
+http://212.102.60.73:25461/heldin2@icloud.com/b84ac5c23c51cf7f12c36fe051207846c0326880a6f3276ae278652f5cfe05cb0bd2d83c5d95b309588453f692ba38a4401706b8aba6cca2c079a31bbfd17224/2850
+#EXTINF:-1 tvg-id="Globo São Paulo HD" tvg-name="GLOBO MINAS HD" tvg-logo="http://212.102.60.73/logos/TV-Globo-Nordeste.png" group-title="Brazil",GLOBO MINAS HD
+http://212.102.60.73:25461/heldin2@icloud.com/b84ac5c23c51cf7f12c36fe051207846c0326880a6f3276ae278652f5cfe05cb0bd2d83c5d95b309588453f692ba38a4401706b8aba6cca2c079a31bbfd17224/2849
+#EXTINF:-1 tvg-id="Globo São Paulo HD" tvg-name="GLOBO TV GAZETA VITÓRIA FHD" tvg-logo="http://212.102.60.73/logos/TV-Globo-Nordeste.png" group-title="Brazil",GLOBO TV GAZETA VITÓRIA FHD
+http://212.102.60.73:25461/heldin2@icloud.com/b84ac5c23c51cf7f12c36fe051207846c0326880a6f3276ae278652f5cfe05cb0bd2d83c5d95b309588453f692ba38a4401706b8aba6cca2c079a31bbfd17224/1566
+#EXTINF:-1 tvg-id="Globo São Paulo HD" tvg-name="GLOBO TV GAZETA VITÓRIA HD" tvg-logo="http://212.102.60.73/logos/TV-Globo-Nordeste.png" group-title="Brazil",GLOBO TV GAZETA VITÓRIA HD
+http://212.102.60.73:25461/heldin2@icloud.com/b84ac5c23c51cf7f12c36fe051207846c0326880a6f3276ae278652f5cfe05cb0bd2d83c5d95b309588453f692ba38a4401706b8aba6cca2c079a31bbfd17224/1567
+#EXTINF:-1 tvg-id="Globo São Paulo HD" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="http://212.102.60.73/logos/TV-Globo-Nordeste.png" group-title="Brazil",GLOBO RPC CURITIBA FHD
+http://212.102.60.73:25461/heldin2@icloud.com/b84ac5c23c51cf7f12c36fe051207846c0326880a6f3276ae278652f5cfe05cb0bd2d83c5d95b309588453f692ba38a4401706b8aba6cca2c079a31bbfd17224/1517
+#EXTINF:-1 tvg-id="Globo São Paulo HD" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://212.102.60.73/logos/TV-Globo-Minas.png" group-title="Brazil",Globo RPC Curitiba HD
+http://212.102.60.73:25461/heldin2@icloud.com/b84ac5c23c51cf7f12c36fe051207846c0326880a6f3276ae278652f5cfe05cb0bd2d83c5d95b309588453f692ba38a4401706b8aba6cca2c079a31bbfd17224/423
+#EXTINF:-1 tvg-id="Globo São Paulo HD" tvg-name="Globo GO HD PRUEVA" tvg-logo="http://212.102.60.73/logos/TV-Globo-Nordeste.png" group-title="Brazil",Globo GO HD
+http://172.106.167.146:8070/live/tomstme300/tomasarenatelegramme300/13483.m3u8?token=ShUNAEFcElxEWlEHX1sFV1kBDwJXVQVbUgcCBwQDVQBUUlZVBFcCBAUaGEZKTREDAFhpWAUVDwgFBVtRG0AUEFRFOghWFgpEVwsFVQgMQUpDQV9cBBUPCRoTEwtTQFtBAwZdUQIWHEQDQEABS1cCCj5RU0cIVFAbDF8WDltOQwxfaAEEX1VeAkQCFlQbFUEPEkUUCw9CWVUaEwELQxAAF1QVX0MBAghWRBQWB1ZMDRITTBQLQ3l5GxoTBhpDBw8QWFgLQwgWXVUTABZIG1AQORNQRUUTUlRUU0NBWBVTQ08TWgQZbVdfCAhdVxBQVg0VQw8UAlEHFxUUXAwMXhYOEW5HDAUQDhJVVg0NUxtE
+
+
+
+
+
